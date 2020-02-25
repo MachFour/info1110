@@ -1,0 +1,5 @@
+**.pdf
+*.zip
+*.pptx
+__pycache__/
+lectures/
