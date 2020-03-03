@@ -1,5 +1,8 @@
 **.pdf
-*.zip
-*.pptx
+**.zip
+**.pptx
+**.epub
+*.ods
 __pycache__/
 lectures/
+admin/
