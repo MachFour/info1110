@@ -8,6 +8,10 @@ For some weeks, I have written introductory explanations to the concepts of that
 
 Note: what I upload here is not official course material, and while mostly the code is correct, I cannot guarantee that it is. You should *always* run code yourself to make sure that it does what you think it does.
 
+# Screen sharing URL
+https://meet.jit.si/info1110-max
+
+
 # Helpful links:
 
 ## General Python help
